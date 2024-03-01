@@ -12,6 +12,7 @@ I am a code enjoyer. Here are some of my notable stuff.
 ### Projects
 
 - [Todays Number API](https://github.com/lhiguer1/todays-number) - David Lynch's number of the day API
+- [Book Enjoyer](https://github.com/lhiguer1/book-enjoyer) - TypeScript and Tailwind CSS book thing
 - [gist.github.com/lhiguer1](https://gist.github.com/lhiguer1) - Misc. snippets I use for work and home use
 
 ## 🛠 Skills
