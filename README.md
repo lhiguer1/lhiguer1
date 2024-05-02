@@ -13,13 +13,14 @@ I am a code enjoyer. Here are some of my notable stuff.
 
 - [Todays Number API](https://github.com/lhiguer1/todays-number) - David Lynch's number of the day API
 - [Book Enjoyer](https://github.com/lhiguer1/book-enjoyer) - TypeScript and Tailwind CSS book thing
+- [Breaking Bad Quotes](https://github.com/lhiguer1/Random-Breaking-Bad-Quote) - Random Breaking Bad quote. Deployed using AWS Amplify
 - [gist.github.com/lhiguer1](https://gist.github.com/lhiguer1) - Misc. snippets I use for work and home use
 
 ## 🛠 Skills
 
 **Technologies:** HTML, CSS, Tailwind CSS, JavaScript, TypesScript, Bootstrap, NodeJs, ReactJs, ExpressJs, NextJs, Python, Django, PowerShell, Bash, PostgreSQL, MongoDB, Android Studio, Kotlin<br/>
 **Virtualization:** Docker, VirtualBox<br/>
-**DevOps:** Docker, Heroku, AWS, CICD<br/>
+**DevOps:** Docker, Heroku, AWS, CICD, AWS Amplify<br/>
 
 ## 📬 Connect with me:
 
