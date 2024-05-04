@@ -14,6 +14,7 @@ I am a code enjoyer. Here are some of my notable stuff.
 - [Todays Number API](https://github.com/lhiguer1/todays-number) - David Lynch's number of the day API
 - [Book Enjoyer](https://github.com/lhiguer1/book-enjoyer) - TypeScript and Tailwind CSS book thing
 - [Breaking Bad Quotes](https://github.com/lhiguer1/Random-Breaking-Bad-Quote) - Random Breaking Bad quote. Deployed using AWS Amplify
+- [forecaster](https://github.com/lhiguer1/forecaster) - Displays a 5-day forecast based on user location. Also deployed using AWS Amplify
 - [gist.github.com/lhiguer1](https://gist.github.com/lhiguer1) - Misc. snippets I use for work and home use
 
 ## 🛠 Skills
