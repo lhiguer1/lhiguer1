@@ -11,7 +11,7 @@ I am a code enjoyer. Here are some of my notable stuff.
 
 ### Projects
 
-- [Todays Number API](https://github.com/lhiguer1/todays-number) - David Lynch's number of the day API
+- [DAVID LYNCH THEATER Presents: Today's Number Is...](https://github.com/lhiguer1/todays-number-is) - Static site created using data gathered from my inactive project [Todays Number API](https://github.com/lhiguer1/todays-number) 
 - [Book Enjoyer](https://github.com/lhiguer1/book-enjoyer) - TypeScript and Tailwind CSS book thing
 - [Breaking Bad Quotes](https://github.com/lhiguer1/Random-Breaking-Bad-Quote) - Random Breaking Bad quote. Deployed using AWS Amplify
 - [forecaster](https://github.com/lhiguer1/forecaster) - Displays a 5-day forecast based on user location. Also deployed using AWS Amplify
@@ -19,9 +19,11 @@ I am a code enjoyer. Here are some of my notable stuff.
 
 ## 🛠 Skills
 
-**Technologies:** HTML, CSS, Tailwind CSS, JavaScript, TypesScript, Bootstrap, NodeJs, ReactJs, ExpressJs, NextJs, Python, Django, PowerShell, Bash, PostgreSQL, MongoDB, Android Studio, Kotlin<br/>
-**Virtualization:** Docker, VirtualBox<br/>
-**DevOps:** Docker, Heroku, AWS, CICD, AWS Amplify<br/>
+**Languages:** HTML, CSS, JavaScript, TypeScript, Python
+**Frameworks/Libraries:** Tailwind CSS, Bootstrap, React, Express, Next.js, Django
+**Databases:** PostgreSQL, MongoDB
+**Tools/Platforms:** Node.js, PowerShell, Bash, Docker, VirtualBox, VMware, Heroku, AWS, Git
+**DevOps:** AWS, Heroku
 
 ## 📬 Connect with me:
 
