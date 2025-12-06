@@ -8,6 +8,7 @@ I am a code enjoyer. Here are some of my notable stuff.
 
 - [AWS Developer Associate](https://www.credly.com/badges/c94fc599-310d-4741-9e08-af06c6e54916/public_url)
 - [AWS Solutions Architect Associate](https://www.credly.com/badges/0cfb6195-948d-44f2-a9b4-266045bfa4e8/public_url)
+- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/leonelhiguera-3601/credentials/9e825e2d7730db79)
 
 ### Projects
 
