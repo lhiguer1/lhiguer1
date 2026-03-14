@@ -13,6 +13,7 @@ I am a code enjoyer. Here are some of my notable stuff.
 
 ### Projects
 
+- [ESC/POS Printer Bot](https://github.com/lhiguer1/ESC-POS-Printer-Bot) - Discord bot to print to an ESC/POS printer
 - [DAVID LYNCH THEATER Presents: Today's Number Is...](https://github.com/lhiguer1/todays-number-is) - Static site created using data gathered from my inactive project [Todays Number API](https://github.com/lhiguer1/todays-number) 
 - [Book Enjoyer](https://github.com/lhiguer1/book-enjoyer) - TypeScript and Tailwind CSS book thing
 - [Breaking Bad Quotes](https://github.com/lhiguer1/Random-Breaking-Bad-Quote) - Random Breaking Bad quote. Deployed using AWS Amplify
