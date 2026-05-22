@@ -6,6 +6,7 @@ I am a code enjoyer. Here are some of my notable stuff.
 
 ### Certifications
 
+- [Red Hat Certified System Administrator (RHCSA)](https://www.credly.com/badges/f1cc5748-2228-42cd-b669-52692055eb80/public_url)
 - [Microsoft Certified: Azure Database Administrator Associate](https://learn.microsoft.com/en-us/users/leonelhiguera-3601/credentials/4991f35c8cbe37f7)
 - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/leonelhiguera-3601/credentials/9e825e2d7730db79)
 - [AWS Developer Associate](https://www.credly.com/badges/c94fc599-310d-4741-9e08-af06c6e54916/public_url)
